@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resume template
 
 *A simple Jekyll + GitHub Pages powered resume template.*
@@ -57,3 +58,6 @@ If you spot a bug, or want to improve the code, or even make the dummy content b
 The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this demo repo in your own resume. :wink:
 
 Disclaimer: Use of Homer J. Simpson image and name used under [Fair Use](https://en.wikipedia.org/wiki/Fair_use) for educational purposes. Project license does not apply to use of this material.
+=======
+# hwejin23.github.io
+>>>>>>> e1c8a12c9e8b9786a5ba14a6821ed292102418c0
