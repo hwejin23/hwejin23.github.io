@@ -28,6 +28,6 @@
 - journal: Korean Computer Congress 2018 (KCC 2018)
   title: Pulmonary nodule classification in computed tomography images using a 3D deep convolutional neural network
   year: 2018
-  authors: Hwejin Jung, Lodhi Bilal, Bumsoo Kim, Inyeop Lee, Junhyun Lee and Jaewoo Kang*
+  authors: Hwejin Jung, Bilal Lodhi, Bumsoo Kim, Inyeop Lee, Junhyun Lee and Jaewoo Kang*
   etcs:
     - etc: Best paper presentation award

@@ -1,16 +1,69 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Chemical Structures Recognition
+  role: Actively Involved
+  duration: Nov, 2018 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Recognition of chemical structures in patent images
+  etcs:
+    - etc: Co-work with WIPS Co., Ltd (Institute of prior art search authorized by Korea Intellectual Property Office)
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+
+
+
+
+- project: White Blood Cells Classification and Detection
+  role: Actively Involved
+  duration: Feb, 2017 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Classification and detection of white blood cells in bloodcell microscopic images
+  etcs:
+    - etc: Co-work with Department of Clinical Science, College of Medicine, Korea University
+
+
+
+- project: Neclei Segmentation
+  role: First Author
+  duration: Mar, 2018 &mdash; Present
+  # url: "#"
+  description: Segmentation of nuclei in histopathology images
+
+
+- project: Google Landmark Recognition Challenge (Kaggle)
+  role: Actively Involved
+  duration: Feb, 2018 &mdash; May, 2018
+  url: "https://www.kaggle.com/c/landmark-recognition-challenge"
+  description: Label famous (and not-so-famous) landmarks in images
+  etcs:
+    - etc: Rank &mdash; 60/477 (Top 13%)
+
+
+
+
+- project: Nodules Classification
+  role: First Author
+  duration: Dec, 2017 &mdash; Oct, 2018
+  # url: "#"
+  description: Classification of pulmonary nodules in computer tomography (CT) images
+  etcs:
+    - etc: Publication in BMC Medical Imaging
+
+- project: Masses Detection
+  role: First Author
+  duration: Nov, 2016 &mdash; Aug, 2018
+  url: "https://doi.org/10.1371/journal.pone.0203355"
+  description: Detection of masses in mammograms
+  etcs:
+    - etc: Co-work with Department of Radiology, College of Medicine, Korea University
+    - etc: Publication in Plos one
+
+
+- project: The Digital Mammography DREAM Challenge
+  role: Actively Involved
+  duration: Nov, 2016 &mdash; May, 2017
+  url: "https://www.synapse.org/#!Synapse:syn4224222/wiki/"
+  description: Developing algorithms for risk stratification of screening mammograms
+  etcs:
+    - etc: Co-work with Department of Radiology, College of Medicine, Korea University
+    - etc: Rank &mdash; 13/31 (Top 42%)

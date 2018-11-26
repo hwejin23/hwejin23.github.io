@@ -12,8 +12,8 @@
 # Interests
 - subject: Artificail Inteligence
   subsubjects:
-    - subsubject: Machine Learning
-    - subsubject: Deep Learning
+    - subsubject: Data mining
+    - subsubject: Machine Learning (including Deep Learning)
 - subject: Image Processing
   subsubjects:
     - subsubject: Bio-medical Image Analysis
