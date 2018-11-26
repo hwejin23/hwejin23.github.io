@@ -1,4 +1,19 @@
 # Interests
-- description: Human rights and world affairs
-- description: Music (baritone saxiphonist)
-- description: Linguistics
+#- description: Data Mining
+#- description: Artificail Inteligence
+#- description: Machine Learning
+#- description: Deep Learning
+#- description: Image Processing
+#- description: Bio-medical Image Analysis
+
+
+
+
+# Interests
+- subject: Artificail Inteligence
+  subsubjects:
+    - subsubject: Machine Learning
+    - subsubject: Deep Learning
+- subject: Image Processing
+  subsubjects:
+    - subsubject: Bio-medical Image Analysis

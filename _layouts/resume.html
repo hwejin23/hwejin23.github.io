@@ -218,13 +218,54 @@
       <!-- end Associations -->
       {% endif %}
 
+
+
+
+
+
+
+
+
+
+      {% if site.resume_section_interests %}
+      <!-- begin Interest -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Research Interests</h2>
+        </header>
+
+        {% for interests in site.data.interests %}
+        <div class="resume-item">
+
+        	
+        	<h4 class="resume-item-title">{{ interests.subject }}</h4>
+          	<h5 class="resume-item-details" itemprop="description">{{ interests.subsubject }}</h5>
+          	<p class="resume-item-copy" itemprop="description">
+            	<ul class="resume-item-list">
+              	{% for subsubject in interests.subsubjects %}
+              	<li>{{ subsubject.subsubject }}</li>
+              	{% endfor %}
+            	</ul></h5>
+          	<p class="resume-item-copy">{{ interests.summary }}</p>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Education -->
+      {% endif %}
+
+
+
+
+
+
       {% if site.resume_section_interests %}
       <!-- begin Interests -->
-      <section class="content-section">
+      <!--section class="content-section">
 
         <header class="section-header">
-          <h2>Outside Interests</h2>
+          <h2>Research Interests</h2>
         </header>
+
 
         <div class="resume-item">
           <ul class="resume-item-list">
