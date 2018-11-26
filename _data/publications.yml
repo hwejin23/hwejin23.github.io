@@ -1,0 +1,33 @@
+# Publication
+- journal: PloS one
+  title: Detection of masses in mammograms using a one-stage object detector based on a deep convolutional neural network
+  year: 2018
+  authors: Hwejin Jung, Bumsoo Kim, Inyeop Lee, Junhyun Lee, Sooyoun Ham, Okhee Woo* and Jaewoo Kang*
+
+
+- journal: BMC Medical Imaging
+  title: Classification of lung nodules in CT scans using three-dimensional deep convolutional neural networks with a checkpoint ensemble method
+  year: In press
+  authors: Hwejin Jung, Bumsoo Kim, Inyeop Lee, Junhyun Lee and Jaewoo Kang*
+
+
+- journal: PloS one
+  title: An automatic nuclei segmentation method for histopathology images based on deep convolutional neural networks
+  year: Under review
+  authors: Hwejin Jung, Bilal Lodhi, Bumsoo Kim, Junhyun Lee and Jaewoo Kang*
+
+
+- journal: Korean Congress of Radiology 2018 (KCR 2018)
+  title: Mass detection in mammography using object detector based on deep convolutional neural network
+  year: 2018
+  authors: Hwejin Jung, Bumsoo Kim, Inyeop Lee, Junhyun Lee, Okhee Woo* and Jaewoo Kang*
+  etcs:
+    - etc: Abstract paper
+
+
+- journal: Korean Computer Congress 2018 (KCC 2018)
+  title: Pulmonary nodule classification in computed tomography images using a 3D deep convolutional neural network
+  year: 2018
+  authors: Hwejin Jung, Lodhi Bilal, Bumsoo Kim, Inyeop Lee, Junhyun Lee and Jaewoo Kang*
+  etcs:
+    - etc: Best paper presentation award

@@ -97,6 +97,49 @@
       {% endif %}
 
 
+
+
+
+      {% if site.resume_section_publications %}
+      <!-- begin Publication -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
+
+        {% for publications in site.data.publications %}
+        <div class="resume-item" itemscope itemprop="subjectOf" itemtype="https://schema.org/PublicationIssue">
+          <h3 class="resume-item-title" itemprop="name">{{ publications.title }}</h3>
+          <h4 class="resume-item-details group" itemprop="description">{{ publications.journal }} &bull; {{ publications.year }}</h4>
+          <h5 class="resume-item-details authors" itemprop="description">{{ publications.authors }}</h5>
+          <h6 class="resume-item-details etcs" itemprop="description">{{ publications.etc }}</h6>
+          <p class="resume-item-copy" itemprop="description">
+            <ul class="resume-item-list">
+              {% for etc in publications.etcs %}
+              <li>{{ etc.etc }}</li>
+              {% endfor %}
+            </ul></h6>
+          <p class="resume-item-copy">{{ publications.summary }}</p>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Education -->
+      {% endif %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">
