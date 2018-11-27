@@ -92,8 +92,8 @@
 
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
-          <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
+          <h3 class="resume-item-title" itemprop="name">{{ education.degree }}</h3>
+          <h4 class="resume-item-details group" itemprop="description">{{ education.uni }} &bull; {{ education.year }}</h4>
           <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
           <p class="resume-item-copy" itemprop="description">
             <ul class="resume-item-list">
@@ -156,11 +156,6 @@
               <li>{{ etc.etc }}</li>
               {% endfor %}
             </ul></h5>
-
-
-
-
-          
         </div>
         {% endfor %}
 
@@ -179,14 +174,14 @@
         <div class="resume-item" itemscope itemprop="subjectOf" itemtype="https://schema.org/PublicationIssue">
           <h3 class="resume-item-title" itemprop="name">{{ publications.title }}</h3>
           <h4 class="resume-item-details group" itemprop="description">{{ publications.journal }} &bull; {{ publications.year }}</h4>
-          <h5 class="resume-item-details authors" itemprop="description">{{ publications.authors }}</h5>
-          <h6 class="resume-item-details etcs" itemprop="description">{{ publications.etc }}</h6>
+          <p class="resume-item-copy" itemprop="description">{{ publications.authors }}</p>
+          <h5 class="resume-item-details etcs" itemprop="description">{{ publications.etc }}</h5>
           <p class="resume-item-copy" itemprop="description">
             <ul class="resume-item-list">
               {% for etc in publications.etcs %}
               <li>{{ etc.etc }}</li>
               {% endfor %}
-            </ul></h6>
+            </ul></h5>
           <p class="resume-item-copy">{{ publications.summary }}</p>
         </div>
         {% endfor %}

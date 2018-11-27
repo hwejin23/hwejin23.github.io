@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Hwejin Jung"
-resume_title:                   "Research Professor"
+resume_title:                   "Researcher"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "hwejin23@korea.ac.kr"
