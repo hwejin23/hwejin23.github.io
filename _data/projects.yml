@@ -54,7 +54,7 @@
 - project: Nodules Classification
   role: Actively Involved
   duration: Dec, 2017 &mdash; Oct, 2018
-  # url: "#"
+  # url: "https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-018-0286-0"
   description: Classification of pulmonary nodules in computer tomography (CT) images
   etcs:
     - etc: Publication in BMC Medical Imaging
