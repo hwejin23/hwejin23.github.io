@@ -34,7 +34,7 @@
 
 
 - project: Neclei Segmentation
-  role: First Author
+  role: Actively Involved
   duration: Mar, 2018 &mdash; Feb, 2019
   # url: "#"
   description: Segmentation of nuclei in histopathology images
@@ -52,7 +52,7 @@
 
 
 - project: Nodules Classification
-  role: First Author
+  role: Actively Involved
   duration: Dec, 2017 &mdash; Oct, 2018
   # url: "#"
   description: Classification of pulmonary nodules in computer tomography (CT) images
@@ -60,7 +60,7 @@
     - etc: Publication in BMC Medical Imaging
 
 - project: Masses Detection
-  role: First Author
+  role: Actively Involved
   duration: Nov, 2016 &mdash; Aug, 2018
   url: "https://doi.org/10.1371/journal.pone.0203355"
   description: Detection of masses in mammograms
