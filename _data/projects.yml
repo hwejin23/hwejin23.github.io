@@ -1,9 +1,21 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+
+- project: Asan Medical Center HeLP Challenge (HeLP2018)
+  role: Team leader
+  duration: Jan, 2019 &mdash; Feb, 2019
+  url: "https://www.synapse.org/#!Synapse:syn15569329/wiki/582435"
+  description: Breast cancer classification on frozen pathology
+  etcs:
+    - etc: Rank &mdash; 2/10
+
+
+
+
 - project: Chemical Structures Recognition
   role: Actively Involved
-  duration: Nov, 2018 &mdash; Present
+  duration: Nov, 2018 &mdash; Feb, 2019
   # url: "#"
   description: Recognition of chemical structures in patent images
   etcs:
@@ -11,11 +23,9 @@
 
 
 
-
-
 - project: White Blood Cells Classification and Detection
   role: Actively Involved
-  duration: Feb, 2017 &mdash; Present
+  duration: Feb, 2017 &mdash; Feb, 2019
   # url: "#"
   description: Classification and detection of white blood cells in bloodcell microscopic images
   etcs:
@@ -25,7 +35,7 @@
 
 - project: Neclei Segmentation
   role: First Author
-  duration: Mar, 2018 &mdash; Present
+  duration: Mar, 2018 &mdash; Feb, 2019
   # url: "#"
   description: Segmentation of nuclei in histopathology images
 
