@@ -1,4 +1,9 @@
 # Publication
+- journal: JAMA Network Open
+  title: Assessment of Combined Artificial Intelligence and Radiologist Assessment to Interpret Screening Mammograms
+  year: 2020
+  authors: T. Schaffter*, DSM. Buist*, CI. Lee*, Y. Nikulin, D. Ribli, Y. Guan, W. Lotter, Z. Jie, H. Du, S. Wang, J. Feng, M. Feng, H-E. Kim, F. Albiol, A. Albiol, S. Morrell, Z. Wojna, M. E. Ahsen, U. Asif, A. J. Yepes, S. Yohanandan, S. Rabinovici-Cohen, D. Yi, B. Hoff, T. Yu, E. Chaibub Neto, D. Rubin, P. Lindholm, L. R. Margolies, R. B. McBride, J. H. Rothstein, W. Sieh, R. Ben-Ari, S. Harrer, A. Trister, S. Friend, T. Norman, B. Sahiner, F. Strand, J. Guinney, G. Stolovitzky , and the DM DREAM Consortium 
+
 
 - journal: BMC Biomedical Engineering
   title: An automatic nuclei segmentation method for histopathology images based on deep convolutional neural networks
